@@ -1,0 +1,6 @@
+﻿Hacer un commit por cada cambio lógico
+Creo que hacer los cambios manualmente es mas lógico, se que cambios contiene
+Git trata varios ficheros a la vez porque está pensado para codigo mientras que otros están orientado a documento
+Podemos usar GIT para hacer cambios y si metemos la pata podemos aber dónde y, además, volver a donde estabamos
+
+---> añado esta linea extra
