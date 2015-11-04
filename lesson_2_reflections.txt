@@ -1,27 +1,29 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Crea una carpeta llamada .git
+1. Create a folder called .git
+2. To GIT consider that folder a repository
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-1. Es un estado intermedio donde afecta el commit
-2. Permite seleccionar los dicheros a los que les afectará el commit
+1. It is an intermediate state where it affects the commit
+2. Allow to select the files that are affected by the commit.
 
 How can you use the staging area to make sure you have one commit per logical change?
-- añadiendo al staging area todos los ficheros afectados por el cambio lógico y luego haciendo un commit
+- Adding to the staging area all files affected by the logical change and then doing a commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-1. una nueva versión de la aplicación
-2. hacer una prueba
-3. meter un nuevo idioma, aunque esto se puede considerar una nueva versión
+1. a new version of the application
+2. to do a test
+3. use a new language, although this can be considered a new version
+- I would use a new branch for each initiative
 
 How do the diagrams help you visualize the branch structure?
-Los digramas del vídeo, muy bien
+Video diagrams, fine.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-1.Unimos los cambios hechos probablemente por componentes diferentes del equipo o un prototipo que ha funcionado bien.
-2.La forma es muy intuitiva
+1. Probably we join changes made by different team components or a prototype that worked well.
+2. The form is very intuitive
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-1.pros: cómodo y menos errores
-2. cons: menor flexibilidad e imposibilidad de resolver conflictos
+1.pros: comfortable and fewer mistakes.
+2. cons: less flexibility and inability to resolve conflicts
 

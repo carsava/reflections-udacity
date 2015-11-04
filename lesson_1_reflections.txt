@@ -1,6 +1,7 @@
-﻿Hacer un commit por cada cambio lógico
-Creo que hacer los cambios manualmente es mas lógico, se que cambios contiene
-Git trata varios ficheros a la vez porque está pensado para codigo mientras que otros están orientado a documento
-Podemos usar GIT para hacer cambios y si metemos la pata podemos aber dónde y, además, volver a donde estabamos
+﻿To commit for each logical change.
 
----> añado esta linea extra
+I think to make the changes manually is more logical, I know that contains changes.
+
+Git manage several files at once because it is designed to code while others are oriented document.
+
+We can use GIT to make changes and if we err, know where and can also return to where we were.
