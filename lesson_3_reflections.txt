@@ -1,2 +1,10 @@
 When  would you want to create a remote repository rather than keeping all your work local?
 - When I work with a team
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+- If automatic pull was, I was changing my local environment unknowingly
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+1. Braches: It is a label that has an associated group commits
+2. clone: Copy an entire repository from GitHub to a local computer or within the same computer.
+3. Fork: Copy an entire repository from GitHub to Github, keeping the author and link of the original.
